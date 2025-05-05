@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: ' ZimoWorks',
   author: 'Zimo Xia',
   email: 'xiazm5@mail2.sysu.edu.cn',
   link: 'https://nobelium.vercel.app',
